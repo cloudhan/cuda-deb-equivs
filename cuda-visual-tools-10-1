@@ -1,0 +1,11 @@
+Package: cuda-visual-tools-10-1
+Version: 1000
+Priority: optional
+Section: multiverse/devel
+Source: cuda
+Maintainer: cudatools <cudatools@nvidia.com>
+APT-Sources: http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64  Packages
+Description: Dummy packge of CUDA visual tools
+ Contains the visual tools to debug and profile CUDA applications
+ (Nsight Eclipse Edition, Nvidia Visual Profiler).
+

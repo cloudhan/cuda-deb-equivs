@@ -1,0 +1,11 @@
+Package: cuda-samples-10-1
+Version: 1000 
+Priority: optional
+Section: multiverse/devel
+Source: cuda-samples
+Maintainer: cudatools <cudatools@nvidia.com>
+APT-Sources: http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64  Packages
+Description: Dummy package of CUDA example applications
+ Sample CUDA applications which show the core functionality of CUDA
+ as well as advanced features.
+

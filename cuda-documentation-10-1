@@ -1,0 +1,10 @@
+Package: cuda-documentation-10-1
+Priority: optional
+Version: 1000 
+Section: multiverse/devel
+Source: cuda
+Maintainer: cudatools <cudatools@nvidia.com>
+APT-Sources: http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64  Packages
+Description: Dummy package of CUDA documentation
+ Contains all guides and library documentation for CUDA.
+
