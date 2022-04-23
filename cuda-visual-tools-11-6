@@ -1,9 +1,9 @@
-Package: cuda-documentation-11-5
+Package: cuda-visual-tools-11-6
 Version: 1000
 Priority: optional
 Section: multiverse/devel
-Source: cuda-documentation
 Maintainer: cudatools <cudatools@nvidia.com>
 APT-Sources: http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64  Packages
-Description: Dummy package of CUDA documentation
- Contains all guides and library documentation for CUDA.
+Description: Dummy package of CUDA visual tools
+ Contains the visual tools to debug and profile CUDA applications
+ (Nsight Eclipse Edition, Nvidia Visual Profiler).
